@@ -1,0 +1,3 @@
+General notes about TICTACTOE specification
+
+when game is termianl -> return "Game is over"
